@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding: 0;
+
+}
+
+
+
+
+body {
+    font-size: 14px;
+    /* tamanho da fonte */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* tipo fonte */
+    background-color: #ffff;
+    
+
+}
+
+#cabecalho{
+    background-color: #180b00;
+    padding: 60px;
+    
+}
